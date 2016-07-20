@@ -1,0 +1,2 @@
+Check periodically if backups size has changed dramatically.
+	If so, revert map to previous legit version.
